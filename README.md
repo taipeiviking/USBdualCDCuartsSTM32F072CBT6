@@ -12,3 +12,5 @@ UART1 and UART3
 Changes are in the GPIO and AFR registers. The source from the original project is imported into a Keil uVision 5 type project.
 
 Enjoy!
+
+<meta name="google-site-verification" content="78RPBy9auVLkE552W6euB-96II1zvfhFPF0iIDWtu68" />
