@@ -13,4 +13,4 @@ Changes are in the GPIO and AFR registers. The source from the original project 
 
 Enjoy!
 
-meta name="google-site-verification" content="78RPBy9auVLkE552W6euB-96II1zvfhFPF0iIDWtu68"
+<meta name="google-site-verification" content="78RPBy9auVLkE552W6euB-96II1zvfhFPF0iIDWtu68" />
