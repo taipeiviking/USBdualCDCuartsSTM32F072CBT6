@@ -1,5 +1,3 @@
-# USBdualCDCuartsSTM32F072CBT6
-
 DMA-accelerated multi-UART USB CDC for STM32F072CBT6 microcontroller
 ================================================================
 
